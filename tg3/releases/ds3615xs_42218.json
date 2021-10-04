@@ -4,13 +4,13 @@
   "files": [
     {
       "name": "tg3-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/WiteWulf/rp-ext/master/tg3/releases/tg3-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/WiteWulf/rp-ext/main/tg3/releases/tg3-3.10.108.tgz",
       "sha256": "142834bd168a39e9fc6f5aa1495195594cb4929fb9e9568a15eeb147ab20abd4",
       "packed": true
     },
     {
       "name": "check-tg3.sh",
-      "url": "https://raw.githubusercontent.com/WiteWulf/rp-ext/master/tg3/src/check-tg3.sh",
+      "url": "https://raw.githubusercontent.com/WiteWulf/rp-ext/main/tg3/src/check-tg3.sh",
       "sha256": "8947f9c55c4aeb45fca61492f64dac29a72c21ce9b845a90fd357c46c79399e1",
       "packed": false
     }
