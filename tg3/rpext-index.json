@@ -1,0 +1,16 @@
+
+{
+  "id": "WiteWulf.tg3",
+  "url": "https://github.com/WiteWulf/rp-ext/master/tg3/rpext-index.json",
+  "info": {
+    "name": "tg3",
+    "description": "Adds Broadcom Tigon 3 support",
+    "author_url": "https://github.com/WiteWulf",
+    "packer_url": "https://github.com/WiteWulf/rp-ext/tg3",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds3615xs_42218": "https://github.com/WiteWulf/rp-ext/master/tg3/releases/ds3615xs_42218.json"
+
+  }
+}
