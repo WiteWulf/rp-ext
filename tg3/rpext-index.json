@@ -1,7 +1,7 @@
 
 {
   "id": "WiteWulf.tg3",
-  "url": "https://github.com/WiteWulf/rp-ext/main/tg3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/WiteWulf/rp-ext/main/tg3/rpext-index.json",
   "info": {
     "name": "tg3",
     "description": "Adds Broadcom Tigon 3 support",
